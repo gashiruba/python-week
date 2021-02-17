@@ -1,2 +1,2 @@
 # python-week
-Python softwares for learning, all for the science. 
+Desafios do site do Python para treinar.  
